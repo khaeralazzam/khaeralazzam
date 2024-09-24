@@ -1,6 +1,6 @@
 ![universal-personal-banner](elbanner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Khaeral Azzam</h1>
-<h3 align="center">AI Engineer from Indonesia</h3>
+<h3 align="center">Computer Engineer from Indonesia</h3>
 
 ###
 
@@ -9,6 +9,10 @@
   <img src="https://streak-stats.demolab.com?user=khaeralazzam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khaeralazzam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left">I have Tried</p>
 
 ###
 
@@ -71,6 +75,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
 </div>
+
+###
+
+<p align="left">Let's Get Connected</p>
 
 ###
 
